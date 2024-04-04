@@ -1,4 +1,4 @@
--  Olá, eu sou o José Filho
+-  Olá, eu sou José Filho
 -  Estudando front-end
 -  Cursando Eng. de Software
 
