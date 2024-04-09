@@ -21,5 +21,7 @@
   <a href = "josefilhocontatos0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jos%C3%A9-andrade-filho-82a23a301/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://discord.com/channels/821364094878613524/822446282593271820" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+   <a href="" targer="_blank"><img src="![image](https://github.com/JoseFilho0/JoseFilho0/assets/165582929/1dbeaac6-4c4d-42f4-86f0-c30360445e8b)
+" target="_blank"></a>
   
 </div>
